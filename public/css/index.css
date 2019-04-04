@@ -1,0 +1,20 @@
+
+table td a{
+    color: blue;
+}
+
+table td a:hover{
+    color: gray;
+}
+
+table th a{
+    color: green;
+
+}
+table th {
+    font-size: 20px;
+} 
+
+.panel{
+    text-align: center;
+}
